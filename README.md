@@ -1,2 +1,2 @@
 # DevOps
-A devOps tutorial
+A DevOps tutorial for first time use
